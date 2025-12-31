@@ -1,7 +1,7 @@
 # Portfólio – Análise Econômica e Ciência de Dados
 ### Elisangela Gelatti
 
-Olá! Sou **Elisangela Gelatti**, economista, doutoranda em **Economia Aplicada** e atualmente atuo no **Observatório Nacional da Indústria (CNI)** como **cientista de dados e analista econômico**, por meio do programa **Inova Talentos**.
+Olá! Sou **Elisangela Gelatti**, economista, doutoranda em **Economia Aplicada (USP/ESALQ)** e atualmente atuo no **Observatório Nacional da Indústria (CNI)** como **cientista de dados e analista econômico**, por meio do programa **Inova Talentos**.
 
 Este repositório reúne projetos desenvolvidos nas áreas de **análise econômica**, **inteligência de mercado** e **comércio internacional**, com foco no **agronegócio** e na **indústria brasileira**.
 
@@ -15,6 +15,7 @@ Experiência em manipulação, tratamento e análise de grandes bases de dados n
 - **IBGE** (Censo, Contas Nacionais, PNAD, RAIS)
 - **Banco Central do Brasil**
 - **Comex Stat / MDIC**
+- **UN Comtrade**
 - **FAOSTAT**
 - **EUROSTAT**
 - **BEA / US Census (USA Trade Online)**
@@ -25,10 +26,9 @@ Experiência em manipulação, tratamento e análise de grandes bases de dados n
 
 ## Áreas abordadas
 - Análise de dados econômicos
-- Mercado de trabalho (RAIS)
-- Comércio internacional e tarifas
-- Política comercial
 - Indicadores macroeconômicos
+- Comércio internacional
+- Política comercial e tarifas
 - Análise de cenários econômicos
 - Análises aplicadas a EUA, China e União Europeia
 
@@ -38,7 +38,8 @@ Experiência em manipulação, tratamento e análise de grandes bases de dados n
 - SQL
 - Azure Databricks
 - SPSS
-- GTAP (modelo e base de dados para análise de comércio internacional)
+- GTAP (Global Trade Analysis Project)
+- PAEG (Modelo de Equilíbrio Geral Computável para o Brasil)
 
 ## Formação acadêmica
 - **Doutorado em Economia Aplicada** – USP/ESALQ *(em andamento)*
