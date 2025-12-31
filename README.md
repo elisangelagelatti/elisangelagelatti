@@ -40,6 +40,7 @@ Experiência em manipulação, tratamento e análise de grandes bases de dados n
 - SPSS
 - GTAP (Global Trade Analysis Project)
 - PAEG (Modelo de Equilíbrio Geral Computável para o Brasil)
+- IA generativa (ChatGPT, DeepSeek, Microsoft Azure AI, Copilot) para apoio à análise econômica, programação e documentação
 
 ## Formação acadêmica
 - **Doutorado em Economia Aplicada** – USP/ESALQ *(em andamento)*
