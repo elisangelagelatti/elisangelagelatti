@@ -5,7 +5,7 @@ Olá! Sou **Elisangela Gelatti**, economista, doutoranda em **Economia Aplicada 
 
 Este repositório reúne projetos desenvolvidos nas áreas de **análise econômica**, **inteligência de mercado** e **comércio internacional**, com foco no **agronegócio** e na **indústria brasileira**.
 
-Também inclui análises exploratórias de **mercado financeiro**, envolvendo **criptomoedas** e **análise de carteiras**, desenvolvidas como interesse pessoal e para aprofundamento técnico.
+Também inclui análises exploratórias de **mercado financeiro**, desenvolvidas como interesse pessoal e para aprofundamento técnico.
 
 Os projetos combinam **métodos quantitativos**, **tratamento e limpeza de dados**, **análise estatística** e **visualização de dados**, com aplicação prática em **políticas públicas**, **estratégia econômica** e **tomada de decisão**.
 
